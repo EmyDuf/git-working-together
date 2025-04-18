@@ -1,7 +1,8 @@
 # Le petit Léo
 
 ## chapitre 1 par GA
-Le soleil se levait doucement, ses rayons dorés pénétrèrent à travers les rideaux de la chambre. A 7H00, Léo, encore enveloppé dans les bras de Morphée, se débattait contre l'appel impitoyable du matin, ses paupières lourdes refusaient de céder. Chaque son de l'horloge semblait une torture, chaque minute une éternité, alors qu'il luttait pour émerger de son cocon de rêves.
+Le soleil se levait doucement, ses rayons dorés pénétrèrent à travers les rideaux de la chambre. 
+A 7H00, Léo, encore enveloppé dans les bras de Morphée, se débattait contre l'appel impitoyable du matin, ses paupières lourdes refusaient de céder. Chaque son de l'horloge semblait une torture, chaque minute une éternité, alors qu'il luttait pour émerger de son cocon de rêves.
 La chambre de Léo était un havre de paix, avec des murs peints en bleu ciel et des étagères remplies de livres et de jouets. Un tapis moelleux recouvrait le sol, et une lampe en forme de lune diffusait une lumière douce, créant une atmosphère chaleureuse et rassurante.
 
 Mais cette nuit-là, Léo était prisonnier d'un cauchemar terrifiant. Il se voyait perdu dans une forêt sombre, entouré de créatures effrayantes, son cœur battant la chamade. Chaque ombre semblait vouloir l'engloutir, et il se débattait pour trouver une issue, son souffle court et ses mains tremblantes.
